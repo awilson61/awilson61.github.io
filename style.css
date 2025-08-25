@@ -1,6 +1,8 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: rgb(223, 233, 244);
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .center {
